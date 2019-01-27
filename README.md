@@ -39,3 +39,8 @@
 
 # Linear algebra
 - **Basis** is a group of vectors in linear space, any vectors can be represented by the linear combination of these vectors
+
+# Convex theory
+- Lagrange duality
+    - Dual function is convex function
+    - 
